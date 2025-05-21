@@ -3,17 +3,17 @@ A simple screenshot tool for the linux CLI
 
 # Prerequisites 
 
- >Dependencies
-   For X11
-    ·maim
-    ·xclip o xsel
-  For Wayland
-    ·grim
-    ·slurp
-    ·wl-clipboard
+ # Dependencies
+   # For X11
+    - maim
+    - xclip o xsel
+  # For Wayland
+    -grim
+    -slurp
+    -wl-clipboard
 
 # Installation 
--Make the zhot.sh as executable with chmod +x
+ · chmod +x ./zhot.sh
 
 Run
 
